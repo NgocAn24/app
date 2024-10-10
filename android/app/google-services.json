@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705681659726",
+    "project_id": "loginapp-88332",
+    "storage_bucket": "loginapp-88332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705681659726:android:9c92de665b2e5c214c301f",
+        "android_client_info": {
+          "package_name": "com.example.education"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3iwkJdAxhv-W_uCrtkU0-mMnzHPCWDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

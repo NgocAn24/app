@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Paris", "London", "Berlin", "Rome"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": ["Charles Dickens","William Shakespeare",  "Jane Austen", "Leo Tolstoy"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answers": ["H2O", "CO2", "O2", "H2SO4"],
+    "correctAnswerIndex": 0
+  }
+]
